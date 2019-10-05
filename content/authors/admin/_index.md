@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant
+role: Biomedical Data Science Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Biomedical Data Science and Informatics
-    institution: Clemson University
+    institution: Joint program from Clemson University and Medical University of South Carolina 
     year: 2020
   - course: M.S. in Computer Science
     institution: Clemson University
@@ -46,9 +46,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/SadrEhson
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_lJRkx8AAAAJ&hl=en&oi=ao
@@ -71,7 +68,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "esadrfa@g.clemson.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -80,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Hello, I am Ehsan Sadrfaridpour, a Ph.D. student at Clemson University studying Biomedical Data Science and Informatics. I have experience in developing scalable machine learning algorithms for application in text mining and health care. I work under the supervision of professor [Ilya Safro](https://people.cs.clemson.edu/~isafro/) in the <a href="https://people.cs.clemson.edu/~isafro/group.html">Algorithms and Computational Science Lab</a>.
+Hello, I am Ehsan Sadrfaridpour, a Ph.D. candidate at Clemson University studying Biomedical Data Science and Informatics. I have experience in developing scalable machine learning algorithms for application in text mining and health care. I work under the supervision of professor [Ilya Safro](https://people.cs.clemson.edu/~isafro/) in the <a href="https://people.cs.clemson.edu/~isafro/group.html">Algorithms and Computational Science Lab</a>.
