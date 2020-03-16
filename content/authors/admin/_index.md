@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ehsan SadrFaridpour
+name: Moloud Nasiri
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Biomedical Data Science Researcher
+role: UX Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Biomedical Data Science and Informatics
-    institution: Joint program from Clemson University and Medical University of South Carolina 
-    year: 2020
+  - course: Ph.D. in Human Centered Computing
+    institution: Clemson University 
+    year: 2021
   - course: M.S. in Computer Science
     institution: Clemson University
     year: 2019
